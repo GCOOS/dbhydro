@@ -432,3 +432,215 @@
 2021-06-25 01:35:53 PM EDT INFO extract_wq_station_data(LZ41)
 2021-06-25 01:35:53 PM EDT INFO process_wq_stations(): Writing reports/LZ41.csv
 2021-06-25 01:35:53 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1
+2021-06-25 01:39:11 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:39:11 PM EDT INFO processing water quality stations...
+2021-06-25 01:39:11 PM EDT INFO fetch_wq_data(): Fetching POLESOUT
+2021-06-25 01:39:13 PM EDT INFO extract_wq_station_data(POLESOUT)
+2021-06-25 01:39:13 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT_wq.csv
+2021-06-25 01:39:13 PM EDT INFO fetch_wq_data(): Fetching CSFW3
+2021-06-25 01:39:13 PM EDT INFO extract_wq_station_data(CSFW3)
+2021-06-25 01:39:13 PM EDT INFO process_wq_stations(): Writing reports/CSFW3_wq.csv
+2021-06-25 01:39:13 PM EDT INFO fetch_wq_data(): Fetching IPIN
+2021-06-25 01:39:14 PM EDT INFO extract_wq_station_data(IPIN)
+2021-06-25 01:39:14 PM EDT INFO process_wq_stations(): Writing reports/IPIN_wq.csv
+2021-06-25 01:39:14 PM EDT INFO fetch_wq_data(): Fetching IPMID
+2021-06-25 01:39:14 PM EDT INFO extract_wq_station_data(IPMID)
+2021-06-25 01:39:14 PM EDT INFO process_wq_stations(): Writing reports/IPMID_wq.csv
+2021-06-25 01:39:14 PM EDT INFO fetch_wq_data(): Fetching C-POLES
+2021-06-25 01:39:14 PM EDT INFO extract_wq_station_data(C-POLES)
+2021-06-25 01:39:14 PM EDT INFO process_wq_stations(): Writing reports/C-POLES_wq.csv
+2021-06-25 01:39:14 PM EDT INFO fetch_wq_data(): Fetching IPOUT
+2021-06-25 01:39:16 PM EDT INFO extract_wq_station_data(IPOUT)
+2021-06-25 01:39:16 PM EDT INFO process_wq_stations(): Writing reports/IPOUT_wq.csv
+2021-06-25 01:39:16 PM EDT INFO fetch_wq_data(): Fetching BAS0000657
+2021-06-25 01:39:16 PM EDT INFO extract_wq_station_data(BAS0000657)
+2021-06-25 01:39:16 PM EDT WARNING process_wq_stations(): BAS0000657 returned no data.
+2021-06-25 01:39:16 PM EDT INFO fetch_wq_data(): Fetching BAS0000667
+2021-06-25 01:39:16 PM EDT INFO extract_wq_station_data(BAS0000667)
+2021-06-25 01:39:16 PM EDT WARNING process_wq_stations(): BAS0000667 returned no data.
+2021-06-25 01:39:16 PM EDT INFO fetch_wq_data(): Fetching POLESIN
+2021-06-25 01:39:17 PM EDT INFO extract_wq_station_data(POLESIN)
+2021-06-25 01:39:17 PM EDT INFO process_wq_stations(): Writing reports/POLESIN_wq.csv
+2021-06-25 01:39:17 PM EDT INFO fetch_wq_data(): Fetching POLESMID
+2021-06-25 01:39:18 PM EDT INFO extract_wq_station_data(POLESMID)
+2021-06-25 01:39:18 PM EDT INFO process_wq_stations(): Writing reports/POLESMID_wq.csv
+2021-06-25 01:39:18 PM EDT INFO fetch_wq_data(): Fetching IP3
+2021-06-25 01:39:18 PM EDT INFO extract_wq_station_data(IP3)
+2021-06-25 01:39:18 PM EDT INFO process_wq_stations(): Writing reports/IP3_wq.csv
+2021-06-25 01:39:18 PM EDT INFO fetch_wq_data(): Fetching IP4
+2021-06-25 01:39:18 PM EDT INFO extract_wq_station_data(IP4)
+2021-06-25 01:39:18 PM EDT INFO process_wq_stations(): Writing reports/IP4_wq.csv
+2021-06-25 01:39:18 PM EDT INFO fetch_wq_data(): Fetching IP2
+2021-06-25 01:39:18 PM EDT INFO extract_wq_station_data(IP2)
+2021-06-25 01:39:18 PM EDT INFO process_wq_stations(): Writing reports/IP2_wq.csv
+2021-06-25 01:39:18 PM EDT INFO fetch_wq_data(): Fetching SAV-26
+2021-06-25 01:39:19 PM EDT INFO extract_wq_station_data(SAV-26)
+2021-06-25 01:39:19 PM EDT INFO process_wq_stations(): Writing reports/SAV-26_wq.csv
+2021-06-25 01:39:19 PM EDT INFO fetch_wq_data(): Fetching IP1
+2021-06-25 01:39:19 PM EDT INFO extract_wq_station_data(IP1)
+2021-06-25 01:39:19 PM EDT INFO process_wq_stations(): Writing reports/IP1_wq.csv
+2021-06-25 01:39:19 PM EDT INFO fetch_wq_data(): Fetching LZ38
+2021-06-25 01:39:19 PM EDT INFO extract_wq_station_data(LZ38)
+2021-06-25 01:39:19 PM EDT INFO process_wq_stations(): Writing reports/LZ38_wq.csv
+2021-06-25 01:39:19 PM EDT INFO fetch_wq_data(): Fetching IPCANAL
+2021-06-25 01:39:19 PM EDT INFO extract_wq_station_data(IPCANAL)
+2021-06-25 01:39:19 PM EDT INFO process_wq_stations(): Writing reports/IPCANAL_wq.csv
+2021-06-25 01:39:19 PM EDT INFO fetch_wq_data(): Fetching LZ41
+2021-06-25 01:39:19 PM EDT INFO extract_wq_station_data(LZ41)
+2021-06-25 01:39:19 PM EDT INFO process_wq_stations(): Writing reports/LZ41_wq.csv
+2021-06-25 01:39:19 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1
+2021-06-25 01:39:20 PM EDT INFO extract_wq_station_data(POLESOUT1)
+2021-06-25 01:39:20 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT1_wq.csv
+2021-06-25 01:39:20 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1B
+2021-06-25 01:39:20 PM EDT INFO extract_wq_station_data(POLESOUT1B)
+2021-06-25 01:39:20 PM EDT WARNING process_wq_stations(): POLESOUT1B returned no data.
+2021-06-25 01:39:20 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1S
+2021-06-25 01:39:20 PM EDT INFO extract_wq_station_data(POLESOUT1S)
+2021-06-25 01:39:20 PM EDT WARNING process_wq_stations(): POLESOUT1S returned no data.
+2021-06-25 01:39:20 PM EDT INFO fetch_wq_data(): Fetching LZ39
+2021-06-25 01:39:21 PM EDT INFO extract_wq_station_data(LZ39)
+2021-06-25 01:39:21 PM EDT INFO process_wq_stations(): Writing reports/LZ39_wq.csv
+2021-06-25 01:39:21 PM EDT INFO fetch_wq_data(): Fetching LZ42N
+2021-06-25 01:39:22 PM EDT INFO extract_wq_station_data(LZ42N)
+2021-06-25 01:39:22 PM EDT INFO process_wq_stations(): Writing reports/LZ42N_wq.csv
+2021-06-25 01:39:22 PM EDT INFO fetch_wq_data(): Fetching STAKEOUT
+2021-06-25 01:39:25 PM EDT INFO extract_wq_station_data(STAKEOUT)
+2021-06-25 01:39:25 PM EDT INFO process_wq_stations(): Writing reports/STAKEOUT_wq.csv
+2021-06-25 01:39:25 PM EDT INFO fetch_wq_data(): Fetching BAS0000649
+2021-06-25 01:39:25 PM EDT INFO extract_wq_station_data(BAS0000649)
+2021-06-25 01:39:25 PM EDT WARNING process_wq_stations(): BAS0000649 returned no data.
+2021-06-25 01:39:25 PM EDT INFO fetch_wq_data(): Fetching BAS0000515
+2021-06-25 01:39:26 PM EDT INFO extract_wq_station_data(BAS0000515)
+2021-06-25 01:39:26 PM EDT WARNING process_wq_stations(): BAS0000515 returned no data.
+2021-06-25 01:39:26 PM EDT INFO fetch_wq_data(): Fetching STAKEMID
+2021-06-25 01:39:27 PM EDT INFO extract_wq_station_data(STAKEMID)
+2021-06-25 01:39:27 PM EDT INFO process_wq_stations(): Writing reports/STAKEMID_wq.csv
+2021-06-25 01:39:27 PM EDT INFO fetch_wq_data(): Fetching BAS0000656
+2021-06-25 01:39:27 PM EDT INFO extract_wq_station_data(BAS0000656)
+2021-06-25 01:39:27 PM EDT WARNING process_wq_stations(): BAS0000656 returned no data.
+2021-06-25 01:39:27 PM EDT INFO fetch_wq_data(): Fetching TININ
+2021-06-25 01:39:28 PM EDT INFO extract_wq_station_data(TININ)
+2021-06-25 01:39:28 PM EDT INFO process_wq_stations(): Writing reports/TININ_wq.csv
+2021-06-25 01:39:28 PM EDT INFO fetch_wq_data(): Fetching BAS0000671
+2021-06-25 01:39:28 PM EDT INFO extract_wq_station_data(BAS0000671)
+2021-06-25 01:39:28 PM EDT WARNING process_wq_stations(): BAS0000671 returned no data.
+2021-06-25 01:39:28 PM EDT INFO fetch_wq_data(): Fetching BAS0000672
+2021-06-25 01:39:28 PM EDT INFO extract_wq_station_data(BAS0000672)
+2021-06-25 01:39:28 PM EDT WARNING process_wq_stations(): BAS0000672 returned no data.
+2021-06-25 01:39:28 PM EDT INFO fetch_wq_data(): Fetching BAS0000673
+2021-06-25 01:39:28 PM EDT INFO extract_wq_station_data(BAS0000673)
+2021-06-25 01:39:28 PM EDT WARNING process_wq_stations(): BAS0000673 returned no data.
+2021-06-25 01:39:28 PM EDT INFO fetch_wq_data(): Fetching TINMID
+2021-06-25 01:39:28 PM EDT INFO extract_wq_station_data(TINMID)
+2021-06-25 01:39:28 PM EDT INFO process_wq_stations(): Writing reports/TINMID_wq.csv
+2021-06-25 01:39:28 PM EDT INFO fetch_wq_data(): Fetching BAS0000516
+2021-06-25 01:39:29 PM EDT INFO extract_wq_station_data(BAS0000516)
+2021-06-25 01:39:29 PM EDT WARNING process_wq_stations(): BAS0000516 returned no data.
+2021-06-25 01:39:29 PM EDT INFO fetch_wq_data(): Fetching BAS0000635
+2021-06-25 01:39:29 PM EDT INFO extract_wq_station_data(BAS0000635)
+2021-06-25 01:39:29 PM EDT WARNING process_wq_stations(): BAS0000635 returned no data.
+2021-06-25 01:39:29 PM EDT INFO fetch_wq_data(): Fetching TINOUT
+2021-06-25 01:39:29 PM EDT INFO extract_wq_station_data(TINOUT)
+2021-06-25 01:39:29 PM EDT INFO process_wq_stations(): Writing reports/TINOUT_wq.csv
+2021-06-25 01:39:29 PM EDT INFO fetch_wq_data(): Fetching BAS0000644
+2021-06-25 01:39:30 PM EDT INFO extract_wq_station_data(BAS0000644)
+2021-06-25 01:39:30 PM EDT WARNING process_wq_stations(): BAS0000644 returned no data.
+2021-06-25 01:39:30 PM EDT INFO fetch_wq_data(): Fetching BAS0000645
+2021-06-25 01:39:30 PM EDT INFO extract_wq_station_data(BAS0000645)
+2021-06-25 01:39:30 PM EDT WARNING process_wq_stations(): BAS0000645 returned no data.
+2021-06-25 01:39:30 PM EDT INFO fetch_wq_data(): Fetching BAS0000646
+2021-06-25 01:39:30 PM EDT INFO extract_wq_station_data(BAS0000646)
+2021-06-25 01:39:30 PM EDT WARNING process_wq_stations(): BAS0000646 returned no data.
+2021-06-25 01:39:30 PM EDT INFO fetch_wq_data(): Fetching 3RDPTOUT
+2021-06-25 01:39:32 PM EDT INFO extract_wq_station_data(3RDPTOUT)
+2021-06-25 01:39:32 PM EDT INFO process_wq_stations(): Writing reports/3RDPTOUT_wq.csv
+2021-06-25 01:39:32 PM EDT INFO fetch_wq_data(): Fetching POLESOUT2
+2021-06-25 01:39:32 PM EDT INFO extract_wq_station_data(POLESOUT2)
+2021-06-25 01:39:32 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT2_wq.csv
+2021-06-25 01:39:32 PM EDT INFO fetch_wq_data(): Fetching INDIANPM
+2021-06-25 01:39:32 PM EDT INFO extract_wq_station_data(INDIANPM)
+2021-06-25 01:39:32 PM EDT WARNING process_wq_stations(): INDIANPM returned no data.
+2021-06-25 01:39:32 PM EDT INFO fetch_wq_data(): Fetching BAS0000637
+2021-06-25 01:39:32 PM EDT INFO extract_wq_station_data(BAS0000637)
+2021-06-25 01:39:32 PM EDT WARNING process_wq_stations(): BAS0000637 returned no data.
+2021-06-25 01:39:32 PM EDT INFO fetch_wq_data(): Fetching L019
+2021-06-25 01:39:33 PM EDT INFO extract_wq_station_data(L019)
+2021-06-25 01:39:33 PM EDT INFO process_wq_stations(): Writing reports/L019_wq.csv
+2021-06-25 01:39:33 PM EDT INFO fetch_wq_data(): Fetching TIN8100
+2021-06-25 01:39:34 PM EDT INFO extract_wq_station_data(TIN8100)
+2021-06-25 01:39:34 PM EDT INFO process_wq_stations(): Writing reports/TIN8100_wq.csv
+2021-06-25 01:39:34 PM EDT INFO fetch_wq_data(): Fetching TINHOUSE1
+2021-06-25 01:39:35 PM EDT INFO extract_wq_station_data(TINHOUSE1)
+2021-06-25 01:39:35 PM EDT INFO process_wq_stations(): Writing reports/TINHOUSE1_wq.csv
+2021-06-25 01:39:35 PM EDT INFO fetch_wq_data(): Fetching TINHOUSE2
+2021-06-25 01:39:35 PM EDT INFO extract_wq_station_data(TINHOUSE2)
+2021-06-25 01:39:35 PM EDT INFO process_wq_stations(): Writing reports/TINHOUSE2_wq.csv
+2021-06-25 01:39:35 PM EDT INFO fetch_wq_data(): Fetching 3RDPTIN
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(3RDPTIN)
+2021-06-25 01:39:37 PM EDT INFO process_wq_stations(): Writing reports/3RDPTIN_wq.csv
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching BAS0000517
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(BAS0000517)
+2021-06-25 01:39:37 PM EDT WARNING process_wq_stations(): BAS0000517 returned no data.
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching TINHOUSE3
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(TINHOUSE3)
+2021-06-25 01:39:37 PM EDT INFO process_wq_stations(): Writing reports/TINHOUSE3_wq.csv
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching BAS0000664
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(BAS0000664)
+2021-06-25 01:39:37 PM EDT WARNING process_wq_stations(): BAS0000664 returned no data.
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching TINHOUSE4
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(TINHOUSE4)
+2021-06-25 01:39:37 PM EDT INFO process_wq_stations(): Writing reports/TINHOUSE4_wq.csv
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching TINHOUSE5
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(TINHOUSE5)
+2021-06-25 01:39:37 PM EDT INFO process_wq_stations(): Writing reports/TINHOUSE5_wq.csv
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching INDIAN P_R
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(INDIAN P_R)
+2021-06-25 01:39:37 PM EDT WARNING process_wq_stations(): INDIAN P_R returned no data.
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching SAV-70
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(SAV-70)
+2021-06-25 01:39:37 PM EDT INFO process_wq_stations(): Writing reports/SAV-70_wq.csv
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching W-16602
+2021-06-25 01:39:37 PM EDT INFO extract_wq_station_data(W-16602)
+2021-06-25 01:39:37 PM EDT WARNING process_wq_stations(): W-16602 returned no data.
+2021-06-25 01:39:37 PM EDT INFO fetch_wq_data(): Fetching 3RDPTMID
+2021-06-25 01:39:39 PM EDT INFO extract_wq_station_data(3RDPTMID)
+2021-06-25 01:39:39 PM EDT INFO process_wq_stations(): Writing reports/3RDPTMID_wq.csv
+2021-06-25 01:39:39 PM EDT INFO fetch_wq_data(): Fetching BAS0000626
+2021-06-25 01:39:39 PM EDT INFO extract_wq_station_data(BAS0000626)
+2021-06-25 01:39:39 PM EDT WARNING process_wq_stations(): BAS0000626 returned no data.
+2021-06-25 01:39:39 PM EDT INFO fetch_wq_data(): Fetching BAS0000628
+2021-06-25 01:39:40 PM EDT INFO extract_wq_station_data(BAS0000628)
+2021-06-25 01:39:40 PM EDT WARNING process_wq_stations(): BAS0000628 returned no data.
+2021-06-25 01:39:40 PM EDT INFO fetch_wq_data(): Fetching STAKEIN
+2021-06-25 01:39:41 PM EDT INFO extract_wq_station_data(STAKEIN)
+2021-06-25 01:39:41 PM EDT INFO process_wq_stations(): Writing reports/STAKEIN_wq.csv
+2021-06-25 01:39:41 PM EDT INFO fetch_wq_data(): Fetching BAS0000643
+2021-06-25 01:39:41 PM EDT INFO extract_wq_station_data(BAS0000643)
+2021-06-25 01:39:41 PM EDT WARNING process_wq_stations(): BAS0000643 returned no data.
+2021-06-25 01:39:41 PM EDT INFO fetch_wq_data(): Fetching POLESOUT3
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(POLESOUT3)
+2021-06-25 01:39:42 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT3_wq.csv
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching POLESOUT3B
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(POLESOUT3B)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): POLESOUT3B returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching POLESOUT3S
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(POLESOUT3S)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): POLESOUT3S returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching C40
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(C40)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): C40 returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching BAS0000629
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(BAS0000629)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): BAS0000629 returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching BAS0000670
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(BAS0000670)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): BAS0000670 returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching BAS0000650
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(BAS0000650)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): BAS0000650 returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching BAS0000632
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(BAS0000632)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): BAS0000632 returned no data.
+2021-06-25 01:39:42 PM EDT INFO fetch_wq_data(): Fetching BAS0000689
+2021-06-25 01:39:42 PM EDT INFO extract_wq_station_data(BAS0000689)
+2021-06-25 01:39:42 PM EDT WARNING process_wq_stations(): BAS0000689 returned no data.

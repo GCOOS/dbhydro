@@ -122,7 +122,7 @@ def process_wq_stations(logger):
         data_frame = fetch_wq_data(station, config, logger)
         extracted_df = extract_wq_station_data(station, data_frame, config, logger)
         if len(extracted_df) > 0:
-            filename = "reports/%s.csv" % station
+            filename = "reports/%s_wq.csv" % station
             logger.info('process_wq_stations(): Writing %s' % filename)
             csv = extracted_df.to_csv(filename, index=False)
         else:
