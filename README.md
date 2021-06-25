@@ -7,6 +7,7 @@
 - Creates Pandas data frames for each station
 - Writes data frame out as CSV in reports folder
 - Writes logging data in logs folder
+- Uses new GitHub Token-based auth
 - Rules the universe
 
 
