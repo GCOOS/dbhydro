@@ -210,3 +210,225 @@
 2021-06-25 09:51:56 AM EDT INFO fetch_station_data(): Fetching BAS0000689
 2021-06-25 09:51:56 AM EDT INFO extract_station_data(BAS0000689)
 2021-06-25 09:51:56 AM EDT WARNING process_stations(): BAS0000689 returned no data.
+2021-06-25 01:28:07 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:28:07 PM EDT INFO processing stations...
+2021-06-25 01:28:07 PM EDT INFO fetch_station_data(): Fetching S65EX1_S
+2021-06-25 01:28:08 PM EDT INFO extract_station_data(S65EX1_S)
+2021-06-25 01:28:08 PM EDT WARNING process_stations(): S65EX1_S returned no data.
+2021-06-25 01:28:08 PM EDT INFO fetch_station_data(): Fetching POLESOUT
+2021-06-25 01:28:11 PM EDT INFO extract_station_data(POLESOUT)
+2021-06-25 01:28:11 PM EDT INFO process_stations(): Writing reports/POLESOUT.csv
+2021-06-25 01:28:11 PM EDT INFO fetch_station_data(): Fetching CSFW3
+2021-06-25 01:28:11 PM EDT INFO extract_station_data(CSFW3)
+2021-06-25 01:28:11 PM EDT INFO process_stations(): Writing reports/CSFW3.csv
+2021-06-25 01:28:11 PM EDT INFO fetch_station_data(): Fetching IPIN
+2021-06-25 01:28:11 PM EDT INFO extract_station_data(IPIN)
+2021-06-25 01:28:11 PM EDT INFO process_stations(): Writing reports/IPIN.csv
+2021-06-25 01:28:11 PM EDT INFO fetch_station_data(): Fetching IPMID
+2021-06-25 01:28:12 PM EDT INFO extract_station_data(IPMID)
+2021-06-25 01:28:12 PM EDT INFO process_stations(): Writing reports/IPMID.csv
+2021-06-25 01:28:12 PM EDT INFO fetch_station_data(): Fetching C-POLES
+2021-06-25 01:28:12 PM EDT INFO extract_station_data(C-POLES)
+2021-06-25 01:28:12 PM EDT INFO process_stations(): Writing reports/C-POLES.csv
+2021-06-25 01:28:12 PM EDT INFO fetch_station_data(): Fetching IPOUT
+2021-06-25 01:28:13 PM EDT INFO extract_station_data(IPOUT)
+2021-06-25 01:28:13 PM EDT INFO process_stations(): Writing reports/IPOUT.csv
+2021-06-25 01:28:13 PM EDT INFO fetch_station_data(): Fetching BAS0000657
+2021-06-25 01:28:13 PM EDT INFO extract_station_data(BAS0000657)
+2021-06-25 01:28:13 PM EDT WARNING process_stations(): BAS0000657 returned no data.
+2021-06-25 01:28:13 PM EDT INFO fetch_station_data(): Fetching BAS0000667
+2021-06-25 01:28:13 PM EDT INFO extract_station_data(BAS0000667)
+2021-06-25 01:28:13 PM EDT WARNING process_stations(): BAS0000667 returned no data.
+2021-06-25 01:28:13 PM EDT INFO fetch_station_data(): Fetching POLESIN
+2021-06-25 01:28:14 PM EDT INFO extract_station_data(POLESIN)
+2021-06-25 01:28:14 PM EDT INFO process_stations(): Writing reports/POLESIN.csv
+2021-06-25 01:28:14 PM EDT INFO fetch_station_data(): Fetching POLESMID
+2021-06-25 01:28:15 PM EDT INFO extract_station_data(POLESMID)
+2021-06-25 01:28:15 PM EDT INFO process_stations(): Writing reports/POLESMID.csv
+2021-06-25 01:28:15 PM EDT INFO fetch_station_data(): Fetching IP3
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(IP3)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/IP3.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching IP4
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(IP4)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/IP4.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching IP2
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(IP2)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/IP2.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching SAV-26
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(SAV-26)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/SAV-26.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching IP1
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(IP1)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/IP1.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching LZ38
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(LZ38)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/LZ38.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching IPCANAL
+2021-06-25 01:28:16 PM EDT INFO extract_station_data(IPCANAL)
+2021-06-25 01:28:16 PM EDT INFO process_stations(): Writing reports/IPCANAL.csv
+2021-06-25 01:28:16 PM EDT INFO fetch_station_data(): Fetching LZ41
+2021-06-25 01:28:17 PM EDT INFO extract_station_data(LZ41)
+2021-06-25 01:28:17 PM EDT INFO process_stations(): Writing reports/LZ41.csv
+2021-06-25 01:28:17 PM EDT INFO fetch_station_data(): Fetching POLESOUT1
+2021-06-25 01:33:13 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:33:13 PM EDT INFO processing water quality stations...
+2021-06-25 01:33:13 PM EDT INFO fetch_wq_data(): Fetching S65EX1_S
+2021-06-25 01:33:13 PM EDT INFO extract_station_data(S65EX1_S)
+2021-06-25 01:33:13 PM EDT WARNING process_wq_stations(): S65EX1_S returned no data.
+2021-06-25 01:33:13 PM EDT INFO fetch_wq_data(): Fetching POLESOUT
+2021-06-25 01:33:16 PM EDT INFO extract_station_data(POLESOUT)
+2021-06-25 01:33:16 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT.csv
+2021-06-25 01:33:16 PM EDT INFO fetch_wq_data(): Fetching CSFW3
+2021-06-25 01:33:16 PM EDT INFO extract_station_data(CSFW3)
+2021-06-25 01:33:16 PM EDT INFO process_wq_stations(): Writing reports/CSFW3.csv
+2021-06-25 01:33:16 PM EDT INFO fetch_wq_data(): Fetching IPIN
+2021-06-25 01:33:17 PM EDT INFO extract_station_data(IPIN)
+2021-06-25 01:33:17 PM EDT INFO process_wq_stations(): Writing reports/IPIN.csv
+2021-06-25 01:33:17 PM EDT INFO fetch_wq_data(): Fetching IPMID
+2021-06-25 01:33:17 PM EDT INFO extract_station_data(IPMID)
+2021-06-25 01:33:17 PM EDT INFO process_wq_stations(): Writing reports/IPMID.csv
+2021-06-25 01:33:17 PM EDT INFO fetch_wq_data(): Fetching C-POLES
+2021-06-25 01:33:17 PM EDT INFO extract_station_data(C-POLES)
+2021-06-25 01:33:17 PM EDT INFO process_wq_stations(): Writing reports/C-POLES.csv
+2021-06-25 01:33:17 PM EDT INFO fetch_wq_data(): Fetching IPOUT
+2021-06-25 01:33:18 PM EDT INFO extract_station_data(IPOUT)
+2021-06-25 01:33:18 PM EDT INFO process_wq_stations(): Writing reports/IPOUT.csv
+2021-06-25 01:33:18 PM EDT INFO fetch_wq_data(): Fetching BAS0000657
+2021-06-25 01:33:18 PM EDT INFO extract_station_data(BAS0000657)
+2021-06-25 01:33:18 PM EDT WARNING process_wq_stations(): BAS0000657 returned no data.
+2021-06-25 01:33:18 PM EDT INFO fetch_wq_data(): Fetching BAS0000667
+2021-06-25 01:33:19 PM EDT INFO extract_station_data(BAS0000667)
+2021-06-25 01:33:19 PM EDT WARNING process_wq_stations(): BAS0000667 returned no data.
+2021-06-25 01:33:19 PM EDT INFO fetch_wq_data(): Fetching POLESIN
+2021-06-25 01:33:19 PM EDT INFO extract_station_data(POLESIN)
+2021-06-25 01:33:19 PM EDT INFO process_wq_stations(): Writing reports/POLESIN.csv
+2021-06-25 01:33:19 PM EDT INFO fetch_wq_data(): Fetching POLESMID
+2021-06-25 01:33:59 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:33:59 PM EDT INFO processing water quality stations...
+2021-06-25 01:33:59 PM EDT INFO fetch_wq_data(): Fetching POLESOUT
+2021-06-25 01:34:02 PM EDT INFO extract_station_data(POLESOUT)
+2021-06-25 01:34:02 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT.csv
+2021-06-25 01:34:02 PM EDT INFO fetch_wq_data(): Fetching CSFW3
+2021-06-25 01:34:02 PM EDT INFO extract_station_data(CSFW3)
+2021-06-25 01:34:02 PM EDT INFO process_wq_stations(): Writing reports/CSFW3.csv
+2021-06-25 01:34:02 PM EDT INFO fetch_wq_data(): Fetching IPIN
+2021-06-25 01:34:03 PM EDT INFO extract_station_data(IPIN)
+2021-06-25 01:34:03 PM EDT INFO process_wq_stations(): Writing reports/IPIN.csv
+2021-06-25 01:34:03 PM EDT INFO fetch_wq_data(): Fetching IPMID
+2021-06-25 01:34:03 PM EDT INFO extract_station_data(IPMID)
+2021-06-25 01:34:03 PM EDT INFO process_wq_stations(): Writing reports/IPMID.csv
+2021-06-25 01:34:03 PM EDT INFO fetch_wq_data(): Fetching C-POLES
+2021-06-25 01:34:03 PM EDT INFO extract_station_data(C-POLES)
+2021-06-25 01:34:03 PM EDT INFO process_wq_stations(): Writing reports/C-POLES.csv
+2021-06-25 01:34:03 PM EDT INFO fetch_wq_data(): Fetching IPOUT
+2021-06-25 01:34:04 PM EDT INFO extract_station_data(IPOUT)
+2021-06-25 01:34:04 PM EDT INFO process_wq_stations(): Writing reports/IPOUT.csv
+2021-06-25 01:34:04 PM EDT INFO fetch_wq_data(): Fetching BAS0000657
+2021-06-25 01:34:04 PM EDT INFO extract_station_data(BAS0000657)
+2021-06-25 01:34:04 PM EDT WARNING process_wq_stations(): BAS0000657 returned no data.
+2021-06-25 01:34:04 PM EDT INFO fetch_wq_data(): Fetching BAS0000667
+2021-06-25 01:34:04 PM EDT INFO extract_station_data(BAS0000667)
+2021-06-25 01:34:04 PM EDT WARNING process_wq_stations(): BAS0000667 returned no data.
+2021-06-25 01:34:04 PM EDT INFO fetch_wq_data(): Fetching POLESIN
+2021-06-25 01:34:06 PM EDT INFO extract_station_data(POLESIN)
+2021-06-25 01:34:06 PM EDT INFO process_wq_stations(): Writing reports/POLESIN.csv
+2021-06-25 01:34:06 PM EDT INFO fetch_wq_data(): Fetching POLESMID
+2021-06-25 01:34:07 PM EDT INFO extract_station_data(POLESMID)
+2021-06-25 01:34:07 PM EDT INFO process_wq_stations(): Writing reports/POLESMID.csv
+2021-06-25 01:34:07 PM EDT INFO fetch_wq_data(): Fetching IP3
+2021-06-25 01:34:07 PM EDT INFO extract_station_data(IP3)
+2021-06-25 01:34:07 PM EDT INFO process_wq_stations(): Writing reports/IP3.csv
+2021-06-25 01:34:07 PM EDT INFO fetch_wq_data(): Fetching IP4
+2021-06-25 01:34:07 PM EDT INFO extract_station_data(IP4)
+2021-06-25 01:34:07 PM EDT INFO process_wq_stations(): Writing reports/IP4.csv
+2021-06-25 01:34:07 PM EDT INFO fetch_wq_data(): Fetching IP2
+2021-06-25 01:34:07 PM EDT INFO extract_station_data(IP2)
+2021-06-25 01:34:07 PM EDT INFO process_wq_stations(): Writing reports/IP2.csv
+2021-06-25 01:34:07 PM EDT INFO fetch_wq_data(): Fetching SAV-26
+2021-06-25 01:34:07 PM EDT INFO extract_station_data(SAV-26)
+2021-06-25 01:34:07 PM EDT INFO process_wq_stations(): Writing reports/SAV-26.csv
+2021-06-25 01:34:07 PM EDT INFO fetch_wq_data(): Fetching IP1
+2021-06-25 01:34:08 PM EDT INFO extract_station_data(IP1)
+2021-06-25 01:34:08 PM EDT INFO process_wq_stations(): Writing reports/IP1.csv
+2021-06-25 01:34:08 PM EDT INFO fetch_wq_data(): Fetching LZ38
+2021-06-25 01:34:08 PM EDT INFO extract_station_data(LZ38)
+2021-06-25 01:34:08 PM EDT INFO process_wq_stations(): Writing reports/LZ38.csv
+2021-06-25 01:34:08 PM EDT INFO fetch_wq_data(): Fetching IPCANAL
+2021-06-25 01:34:08 PM EDT INFO extract_station_data(IPCANAL)
+2021-06-25 01:34:08 PM EDT INFO process_wq_stations(): Writing reports/IPCANAL.csv
+2021-06-25 01:34:08 PM EDT INFO fetch_wq_data(): Fetching LZ41
+2021-06-25 01:34:09 PM EDT INFO extract_station_data(LZ41)
+2021-06-25 01:34:09 PM EDT INFO process_wq_stations(): Writing reports/LZ41.csv
+2021-06-25 01:34:09 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1
+2021-06-25 01:34:10 PM EDT INFO extract_station_data(POLESOUT1)
+2021-06-25 01:34:10 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT1.csv
+2021-06-25 01:34:10 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1B
+2021-06-25 01:34:10 PM EDT INFO extract_station_data(POLESOUT1B)
+2021-06-25 01:34:10 PM EDT WARNING process_wq_stations(): POLESOUT1B returned no data.
+2021-06-25 01:34:10 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1S
+2021-06-25 01:34:10 PM EDT INFO extract_station_data(POLESOUT1S)
+2021-06-25 01:34:10 PM EDT WARNING process_wq_stations(): POLESOUT1S returned no data.
+2021-06-25 01:34:10 PM EDT INFO fetch_wq_data(): Fetching LZ39
+2021-06-25 01:34:10 PM EDT INFO extract_station_data(LZ39)
+2021-06-25 01:34:10 PM EDT INFO process_wq_stations(): Writing reports/LZ39.csv
+2021-06-25 01:34:10 PM EDT INFO fetch_wq_data(): Fetching LZ42N
+2021-06-25 01:35:20 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:35:20 PM EDT INFO processing water quality stations...
+2021-06-25 01:35:20 PM EDT INFO fetch_wq_data(): Fetching POLESOUT
+2021-06-25 01:35:45 PM EDT INFO get_config(./dbhydro.cfg)
+2021-06-25 01:35:45 PM EDT INFO processing water quality stations...
+2021-06-25 01:35:45 PM EDT INFO fetch_wq_data(): Fetching POLESOUT
+2021-06-25 01:35:47 PM EDT INFO extract_wq_station_data(POLESOUT)
+2021-06-25 01:35:47 PM EDT INFO process_wq_stations(): Writing reports/POLESOUT.csv
+2021-06-25 01:35:47 PM EDT INFO fetch_wq_data(): Fetching CSFW3
+2021-06-25 01:35:47 PM EDT INFO extract_wq_station_data(CSFW3)
+2021-06-25 01:35:47 PM EDT INFO process_wq_stations(): Writing reports/CSFW3.csv
+2021-06-25 01:35:47 PM EDT INFO fetch_wq_data(): Fetching IPIN
+2021-06-25 01:35:47 PM EDT INFO extract_wq_station_data(IPIN)
+2021-06-25 01:35:47 PM EDT INFO process_wq_stations(): Writing reports/IPIN.csv
+2021-06-25 01:35:47 PM EDT INFO fetch_wq_data(): Fetching IPMID
+2021-06-25 01:35:47 PM EDT INFO extract_wq_station_data(IPMID)
+2021-06-25 01:35:47 PM EDT INFO process_wq_stations(): Writing reports/IPMID.csv
+2021-06-25 01:35:47 PM EDT INFO fetch_wq_data(): Fetching C-POLES
+2021-06-25 01:35:48 PM EDT INFO extract_wq_station_data(C-POLES)
+2021-06-25 01:35:48 PM EDT INFO process_wq_stations(): Writing reports/C-POLES.csv
+2021-06-25 01:35:48 PM EDT INFO fetch_wq_data(): Fetching IPOUT
+2021-06-25 01:35:48 PM EDT INFO extract_wq_station_data(IPOUT)
+2021-06-25 01:35:48 PM EDT INFO process_wq_stations(): Writing reports/IPOUT.csv
+2021-06-25 01:35:48 PM EDT INFO fetch_wq_data(): Fetching BAS0000657
+2021-06-25 01:35:48 PM EDT INFO extract_wq_station_data(BAS0000657)
+2021-06-25 01:35:48 PM EDT WARNING process_wq_stations(): BAS0000657 returned no data.
+2021-06-25 01:35:48 PM EDT INFO fetch_wq_data(): Fetching BAS0000667
+2021-06-25 01:35:49 PM EDT INFO extract_wq_station_data(BAS0000667)
+2021-06-25 01:35:49 PM EDT WARNING process_wq_stations(): BAS0000667 returned no data.
+2021-06-25 01:35:49 PM EDT INFO fetch_wq_data(): Fetching POLESIN
+2021-06-25 01:35:50 PM EDT INFO extract_wq_station_data(POLESIN)
+2021-06-25 01:35:50 PM EDT INFO process_wq_stations(): Writing reports/POLESIN.csv
+2021-06-25 01:35:50 PM EDT INFO fetch_wq_data(): Fetching POLESMID
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(POLESMID)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/POLESMID.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching IP3
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(IP3)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/IP3.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching IP4
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(IP4)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/IP4.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching IP2
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(IP2)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/IP2.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching SAV-26
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(SAV-26)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/SAV-26.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching IP1
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(IP1)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/IP1.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching LZ38
+2021-06-25 01:35:51 PM EDT INFO extract_wq_station_data(LZ38)
+2021-06-25 01:35:51 PM EDT INFO process_wq_stations(): Writing reports/LZ38.csv
+2021-06-25 01:35:51 PM EDT INFO fetch_wq_data(): Fetching IPCANAL
+2021-06-25 01:35:52 PM EDT INFO extract_wq_station_data(IPCANAL)
+2021-06-25 01:35:52 PM EDT INFO process_wq_stations(): Writing reports/IPCANAL.csv
+2021-06-25 01:35:52 PM EDT INFO fetch_wq_data(): Fetching LZ41
+2021-06-25 01:35:53 PM EDT INFO extract_wq_station_data(LZ41)
+2021-06-25 01:35:53 PM EDT INFO process_wq_stations(): Writing reports/LZ41.csv
+2021-06-25 01:35:53 PM EDT INFO fetch_wq_data(): Fetching POLESOUT1
